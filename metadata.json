@@ -1,0 +1,5 @@
+{
+  "name": "SnapPro AI Photobooth",
+  "description": "Professional Self-Service Photobooth with QRIS & AI Enhancement",
+  "requestFramePermissions": ["camera", "microphone"]
+}
